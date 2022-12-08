@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1000743990309",
+    "project_id": "lossbook-67cba",
+    "storage_bucket": "lossbook-67cba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000743990309:android:f76bf289dae79046eebbcc",
+        "android_client_info": {
+          "package_name": "com.softaloy.lossbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1000743990309-2qla3fquptt84oubkgdrggmmate7qqgu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4zV6nvX08buPiTUJ66d0DqGi_92LmhAo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1000743990309-2qla3fquptt84oubkgdrggmmate7qqgu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
